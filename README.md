@@ -59,6 +59,7 @@ EDA involved exploring the sales data to answer key questions, such as;
 ## Data analysis 
  
  ![EXCEL PROJECT](https://github.com/calfav/Platinum-Consults-Sales-Analysis/blob/main/Platinum%20Consults%20sales%20dashboard.JPG)
+ 
 
 ## Results
 
