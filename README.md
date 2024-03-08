@@ -58,7 +58,7 @@ EDA involved exploring the sales data to answer key questions, such as;
 
 ## Data analysis 
  
-https://github.com/calfav/GLOBAL-SUPERSTORE-ANALYSIS/blob/12f75dd5fbb44e0108d5543e010881e17c77178d/global%20superstore%20screenshot.JPG
+ ![EXCEL PROJECT](https://github.com/calfav/Platinum-Consults-Sales-Analysis/blob/main/Platinum%20Consults%20sales%20dashboard.JPG)
 
 ## Results
 
