@@ -1,5 +1,5 @@
 # GLOBAL-SUPERSTORE-ANALYSIS
-Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. I am asked as a data analyst to analyze and draw out meaningful insight from the Superstore dataset which would aid management in making  informed decisions to improve performance and profitability.
+Global Superstore is a global online retailer based in New York, boasting a broad product catalog and aiming to be a one-stop shop for its customers. I am asked as a data analyst to analyze and draw out meaningful insight from the Superstore dataset which would aid management in making  informed decisions to improve performance and profitability.
 
 ## Table of contents
 
@@ -63,7 +63,7 @@ https://github.com/calfav/GLOBAL-SUPERSTORE-ANALYSIS/blob/main/GLOBAL%20SUPERSTO
 
 ## Results
 
-https://github.com/calfav/GLOBAL-SUPERSTORE-ANALYSIS/blob/main/GLOBAL%20SUPERSTORE%20ANALYSIS%20VEPHLA.pptx
+https://github.com/calfav/GLOBAL-SUPERSTORE-ANALYSIS/blob/main/global%20superstore%20screenshot.JPG
 
 ## Recommendations
 
