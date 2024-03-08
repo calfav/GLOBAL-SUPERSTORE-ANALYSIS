@@ -71,11 +71,16 @@ EDA involved exploring the sales data to answer key questions, such as;
 
 Based on the analysis and results, I recommend the following actions;
 
- - Invest in marketing and promotions during peak sales seasons to maximize revenue for example January(new year season), February(Valentine's season), and April (Easter season).
- - Miss. Nancy is the best-performing salesperson of the year, it is recommended she gets promoted to the western region of the company to improve the company's productivity.
- - Ms. Jan has the lowest sales on the list, she needs some more courses on learning about marketing.
+-  Optimize Discount Strategies: Review and adjust the discount policies in Nigeria to ensure they are aligned with profitability goals. Consider implementing targeted discounts based on    customer segments or product categories to minimize the impact on overall revenue.
+
+-  Shipping Cost Management:  Address the issue of high shipping costs in Nigeria by exploring opportunities to negotiate better rates with shipping providers or optimizing logistics        processes to reduce expenses. Implementing cost-effective shipping solutions can help improve profit margins.
+  
+- Operational Efficiency Enhancement: Conduct a thorough assessment of operational processes in Nigeria to identify inefficiencies that may be contributing to higher costs and lower        profitability. Streamlining operations and implementing cost-saving measures can positively impact the bottom line.
+
+-  Market Diversification: Explore opportunities to diversify the market reach in Nigeria by expanding product offerings or targeting new customer segments. Increasing market penetration    can help offset the impact of high discounts and shipping costs on revenue generation.
+
+-  Performance Monitoring and Adjustment:  Establish a robust monitoring system to track key performance indicators in Nigeria regularly. Use this data to make informed decisions and       quickly adjust strategies to address any emerging challenges or capitalize on opportunities for improvement.
 
 ### Limitations
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. 
-
+I had to remove all special characters from some of the French names in the data since it would not import in Postgres. I also had to reach out to the source for reassurance on the missing data in the file.
