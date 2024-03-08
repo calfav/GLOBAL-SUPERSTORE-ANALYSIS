@@ -65,7 +65,7 @@ EDA involved exploring the sales data to answer key questions, such as;
 
 ## Results
 
-https://github.com/calfav/GLOBAL-SUPERSTORE-ANALYSIS/blob/main/global%20superstore%20screenshot.JPG
+ ![EXCEL PROJECT](https://github.com/calfav/GLOBAL-SUPERSTORE-ANALYSIS/blob/22ff76ad77128a7b21b7f6139f8661dacb094a91/GLOBAL%20SUPERSTORE%20ANALYSIS%20VEPHLA.pdf)
 
 ## Recommendations
 
